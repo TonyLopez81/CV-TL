@@ -5,9 +5,8 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: top;
-    text-shadow: black 0.1em 0.2em 0.2em;
+    text-shadow: black 0.5em 0.5em 0.5em;
     font-style: italic;
-    
 }
 
 footer {
@@ -16,4 +15,12 @@ footer {
 
 #entete {
     font-size: large;
+}
+
+.list-group {
+    opacity: 0.9;
+}
+
+.navbar {
+    opacity: 0.9;
 }
